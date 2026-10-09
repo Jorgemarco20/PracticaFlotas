@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flota>
+    <vehiculo>
+        <matricula>1234ABC</matricula>
+        <marca>Toyota</marca>
+        <modelo>Corolla</modelo>
+        <anio>2020</anio>
+        <kilometraje>85000.0</kilometraje>
+        <categoria>Preventivo</categoria>
+    </vehiculo>
+    <vehiculo>
+        <matricula>5678DEF</matricula>
+        <marca>Ford</marca>
+        <modelo>Transit</modelo>
+        <anio>2021</anio>
+        <kilometraje>62000.0</kilometraje>
+        <categoria>Correctivo</categoria>
+    </vehiculo>
+    <vehiculo>
+        <matricula>9012GHI</matricula>
+        <marca>Renault</marca>
+        <modelo>Clio</modelo>
+        <anio>2019</anio>
+        <kilometraje>95000.0</kilometraje>
+        <categoria>Preventivo</categoria>
+    </vehiculo>
+    <vehiculo>
+        <matricula>3456JKL</matricula>
+        <marca>Mercedes</marca>
+        <modelo>Sprinter</modelo>
+        <anio>2022</anio>
+        <kilometraje>45000.0</kilometraje>
+        <categoria>Revisión</categoria>
+    </vehiculo>
+</flota>

@@ -1,0 +1,34 @@
+[
+  {
+    "matricula": "1234ABC",
+    "marca": "Toyota",
+    "modelo": "Corolla",
+    "anio": 2020,
+    "kms_recorridos": 85000.0,
+    "categoriaMantenimiento": "Preventivo"
+  },
+  {
+    "matricula": "5678DEF",
+    "marca": "Ford",
+    "modelo": "Transit",
+    "anio": 2021,
+    "kms_recorridos": 62000.0,
+    "categoriaMantenimiento": "Correctivo"
+  },
+  {
+    "matricula": "9012GHI",
+    "marca": "Renault",
+    "modelo": "Clio",
+    "anio": 2019,
+    "kms_recorridos": 95000.0,
+    "categoriaMantenimiento": "Preventivo"
+  },
+  {
+    "matricula": "3456JKL",
+    "marca": "Mercedes",
+    "modelo": "Sprinter",
+    "anio": 2022,
+    "kms_recorridos": 45000.0,
+    "categoriaMantenimiento": "Revisión"
+  }
+]
